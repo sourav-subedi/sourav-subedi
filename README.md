@@ -32,11 +32,3 @@
 
 
 ⭐ *“Always building, always learning.”*
-
-
-
-## 📊 GitHub Stats
-
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourav-subedi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-subedi&layout=compact&theme=tokyonight)
